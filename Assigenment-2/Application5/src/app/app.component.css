@@ -1,0 +1,6 @@
+body {background-color: red;}
+h1   {color: rgb(255, 123, 0);}
+input[type=text]{
+    color: blue;
+    background-color: aqua;
+}
